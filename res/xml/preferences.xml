@@ -95,12 +95,6 @@
         <!-- Drawer -->
         <PreferenceScreen android:key="ui_drawer"
             android:title="@string/preferences_interface_drawer_title">
-            <PreferenceCategory android:title="@string/preferences_interface_drawer_widgets_category">
-                <CheckBoxPreference android:key="ui_drawer_widgets_join_apps"
-                    android:title="@string/preferences_interface_drawer_widgets_join_apps_title"
-                    android:summary="@string/preferences_interface_drawer_widgets_join_apps_summary"
-                    android:defaultValue="true" />
-            </PreferenceCategory>
             <PreferenceCategory android:title="@string/preferences_interface_drawer_indicator_category">
                 <CheckBoxPreference android:key="ui_drawer_indicator_enable"
                     android:title="@string/preferences_interface_drawer_indicator_enable_title"
@@ -144,6 +138,6 @@
     <PreferenceCategory android:title="@string/preferences_application_title">
         <Preference android:key="application_version"
             style="?android:preferenceInformationStyle"
-            android:summary="@string/application_copyright" />
+            android:summary="@string/applications69_copyright" />
     </PreferenceCategory>
 </PreferenceScreen>

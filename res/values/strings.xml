@@ -23,7 +23,8 @@
     <!-- Application name -->
     <string name="application_name" translatable="false">Trebuchet</string>
     <!-- Application copyright -->
-    <string name="application_copyright">Copyright \u00A9 CyanogenMod 2012</string>
+    <string name="application_copyright">Copyright \u00A9 CyanogenMod 2013\MSR-Rom SpaceCaker Matz</string>
+    <string name="applications69_copyright">Copyright \u00A9 CyanogenMod 2013\MSR-Rom SpaceCaker Matz</string>
     <!-- Application version -->
     <string name="application_version">0.2</string>
     <!-- Accessibility-facing application name -->
